@@ -91,13 +91,6 @@ Below are the technologies I work with:
   <img src="https://img.shields.io/badge/C_Sharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
 </p>
 
-
-
----
-
-### GitHub Streak
-![Byron's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=byrondray&theme=radical)
-
 ---
 
 ### More About Me
