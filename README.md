@@ -93,6 +93,25 @@ Below are the technologies I work with:
 
 ---
 
+## 🌟 Checkout this Group Expense Tracker I've been working on
+
+You can explore the **staging environment** of the group expense tracker app here:
+
+🔗 **[Staging Environment](https://idsp.onrender.com/)**
+
+### 🛠 Features
+- Link your account with **Plaid** for seamless expense tracking.
+- Manage group expenses efficiently.
+- Visualize spending insights through intuitive graphs.
+
+### 🚀 Getting Started
+1. Login with your email.
+2. Use the following credentials to link your account with Plaid:
+   - **Username:** `user_good`
+   - **Password:** `pass_good`
+
+---
+
 ### More About Me
 - 📖 **Always learning and refining my skills.**
 - 🌍 **Focused on creating meaningful and impactful applications.**
