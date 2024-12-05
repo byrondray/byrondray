@@ -23,6 +23,32 @@ I'm open to collaborating on:
 
 ---
 
+## 🌟 Checkout this Group Expense Tracker I've been working on
+
+You can explore the **staging environment** of the group expense tracker app here:
+
+🔗 **[Staging Environment](https://idsp.onrender.com/)**
+
+### 🛠 Features
+- Link your account with **Plaid** for seamless expense tracking.
+- Manage group expenses efficiently.
+- Visualize spending insights through intuitive graphs.
+
+### 🚀 Getting Started
+1. Login with your email.
+2. Use the following credentials to link your account with Plaid:
+   - **Username:** `user_good`
+   - **Password:** `pass_good`
+
+---
+
+### More About Me
+- 📖 **Always learning and refining my skills.**
+- 🌍 **Focused on creating meaningful and impactful applications.**
+- 🤝 **Ask me anything—I'm always happy to help!**
+
+ ---
+
 ### Tech Stack
 
 Below are the technologies I work with:
@@ -91,28 +117,3 @@ Below are the technologies I work with:
   <img src="https://img.shields.io/badge/C_Sharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
 </p>
 
----
-
-## 🌟 Checkout this Group Expense Tracker I've been working on
-
-You can explore the **staging environment** of the group expense tracker app here:
-
-🔗 **[Staging Environment](https://idsp.onrender.com/)**
-
-### 🛠 Features
-- Link your account with **Plaid** for seamless expense tracking.
-- Manage group expenses efficiently.
-- Visualize spending insights through intuitive graphs.
-
-### 🚀 Getting Started
-1. Login with your email.
-2. Use the following credentials to link your account with Plaid:
-   - **Username:** `user_good`
-   - **Password:** `pass_good`
-
----
-
-### More About Me
-- 📖 **Always learning and refining my skills.**
-- 🌍 **Focused on creating meaningful and impactful applications.**
-- 🤝 **Ask me anything—I'm always happy to help!**
