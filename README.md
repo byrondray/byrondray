@@ -12,11 +12,6 @@ I'm passionate about:
 - Optimized server-side solutions using Bun and Hono
 - C# and .NET
 
-## 💞️ Collaboration
-I'm open to collaborating on:
-- Full-stack projects (web or mobile)
-- Community-focused applications
-
 ## 📫 Reach Me
 - Email: [byrondray8@gmail.com](mailto:byrondray8@gmail.com)
 - LinkedIn: [linkedin.com/in/byrondray](https://linkedin.com/in/byrondray)
@@ -42,12 +37,20 @@ You can explore the **staging environment** of the group expense tracker app her
 
 ---
 
+## 🚀 Learn About Relay
+
+Check out the latest mobile app I'm building and discover its features:
+
+🔗 **[Find Out More](https://relay.arspera.com/)**
+
+---
+
 ### More About Me
 - 📖 **Always learning and refining my skills.**
 - 🌍 **Focused on creating meaningful and impactful applications.**
 - 🤝 **Ask me anything—I'm always happy to help!**
 
- ---
+---
 
 ### Tech Stack
 
@@ -116,4 +119,3 @@ Below are the technologies I work with:
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/C_Sharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
 </p>
-
