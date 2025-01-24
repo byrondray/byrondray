@@ -18,33 +18,6 @@ I'm passionate about:
 
 ---
 
-## 🌟 Checkout this Group Expense Tracker I've been working on
-
-You can explore the **staging environment** of the group expense tracker app here:
-
-🔗 **[Staging Environment](https://idsp.onrender.com/)**
-
-### 🛠 Features
-- Link your account with **Plaid** for seamless expense tracking.
-- Manage group expenses efficiently.
-- Visualize spending insights through intuitive graphs.
-
-### 🚀 Getting Started
-1. Login with your email.
-2. Use the following credentials to link your account with Plaid:
-   - **Username:** `user_good`
-   - **Password:** `pass_good`
-
----
-
-## 🚀 Learn About Relay
-
-Check out the latest mobile app I'm building and discover its features:
-
-🔗 **[Find Out More](https://relay.arspera.com/)**
-
----
-
 ### More About Me
 - 📖 **Always learning and refining my skills.**
 - 🌍 **Focused on creating meaningful and impactful applications.**
