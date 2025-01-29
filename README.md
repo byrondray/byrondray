@@ -9,7 +9,7 @@ I'm passionate about:
 ## 🌱 Currently Learning
 - Expo features for React Native apps and mobile apps
 - AI and data integration for personalized user experiences
-- Optimized server-side solutions using Bun and Hono
+- PHP and Laravel
 - C# and .NET
 
 ## 📫 Reach Me
