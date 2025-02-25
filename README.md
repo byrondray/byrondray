@@ -15,7 +15,6 @@ I'm passionate about:
 ## 📫 Reach Me
 - Portfolio: [Check out my portfolio](https://portfolio-self-three-20.vercel.app/)
 - Email: [byrondray8@gmail.com](mailto:byrondray8@gmail.com)
-- LinkedIn: [linkedin.com/in/byrondray](https://linkedin.com/in/byrondray)
 
 ---
 
