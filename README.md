@@ -94,11 +94,3 @@ I work across the entire technology stack, from crafting responsive interfaces w
 
 ## 💡 My Approach
 What sets me apart is my ability to quickly adapt to new technologies and frameworks. I don't just learn the syntax, I understand the underlying principles, which allows me to pick up new tools rapidly and apply them effectively. This flexibility has enabled me to work on diverse projects across different industries and tech stacks.
-
-## 💭 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=byrondray&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
