@@ -1,5 +1,4 @@
 # Hi, I'm Byron Dray! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Fullstack+Developer;AI+Explorer;Building+at+Arkhet;Open+Source+Enthusiast)](https://git.io/typing-svg)
 
 ## About Me
 I'm a versatile fullstack developer who thrives on solving complex business challenges with modern technology. My approach is simple: understand the problem deeply, choose the right tools for the job, and build solutions that deliver real value.
