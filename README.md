@@ -61,24 +61,6 @@ I work across the entire technology stack, from crafting responsive interfaces w
   </tr>
 </table>
 
-### 🤖 AI & Machine Learning
-<table>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="65" height="65" />
-      <br>TensorFlow
-    </td>
-    <td align="center" width="120">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="65" height="65" />
-      <br>Scikit-learn
-    </td>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/brand/wordmark.png" alt="LangChain" width="120" height="35" style="margin-top: 15px" />
-      <br>LangChain
-    </td>
-  </tr>
-</table>
-
 ### 🛠️ Also Work With
 <p align="left">
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
