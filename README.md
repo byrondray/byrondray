@@ -9,7 +9,7 @@ I work across the entire technology stack, from crafting responsive interfaces w
 - 🤖 I'm learning the basics of **AI/ML integration** into APIs
 
 ## 🚀 What I'm Working On
-- I'm working at [Arkhet](https://arkhet.com) on an AI powered design prototyping too
+- I'm working at [Arkhet](https://arkhet.com) on an AI powered design prototyping tool
 - Building intelligent agents using Model Context Protocol (MCP)
 - Exploring the intersection of AI and web development
 
