@@ -6,9 +6,9 @@ I'm a versatile fullstack developer who thrives on solving complex business chal
 I work across the entire technology stack, from crafting responsive interfaces with React to building robust APIs with ASP.NET Core, Node.js, Laravel, and Python. Whether it's architecting microservices, implementing real-time features, or optimizing database queries, I bring a comprehensive understanding of what it takes to build production-ready applications.
 
 ## 🚀 What I'm Working On
-- I'm working at [Arkhet](https://arkhet.com) on an AI powered design prototyping tool
-- Building intelligent agents using Model Context Protocol (MCP)
-- Exploring the intersection of AI and web development
+- Building an AI-powered design prototyping tool at [Arkhet](https://arkhet.com)
+- Developing [Rezen Gaming](https://rezengaming.com), a gaming wagering platform
+- Exploring MCP (Model Context Protocol) integration
 
 ## 💻 Tech Stack
 <table>
