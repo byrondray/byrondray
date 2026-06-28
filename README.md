@@ -6,10 +6,7 @@ I'm a versatile fullstack developer who thrives on solving complex business chal
 I work across the entire technology stack, from crafting responsive interfaces with React to building robust APIs with ASP.NET Core, Node.js, Laravel, and Python. Whether it's architecting microservices, implementing real-time features, or optimizing database queries, I bring a comprehensive understanding of what it takes to build production-ready applications.
 
 ## 🚀 What I'm Working On
-- Building an AI-powered design prototyping tool at [Arkhet](https://arkhet.com)
-- Developing [Rezen Gaming](https://rezengaming.com), a gaming wagering platform
-- Exploring MCP (Model Context Protocol) integration
-- Learning [Gleam](https://gleam.run) and functional programming patterns
+- Building [DTAM](https://saferschoolstogether.com/dtam-intervention-and-management-cloud-based-software-platform/) (Digital Threat Assessment and Management), a real-time intervention and case management platform at [Safer Schools Together](https://saferschoolstogether.com/)
 
 ## 💻 Tech Stack
 <table>
